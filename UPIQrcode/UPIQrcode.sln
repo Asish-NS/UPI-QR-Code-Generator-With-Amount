@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPIQrcode", "UPIQrcode\UPIQrcode.csproj", "{7064C421-6F28-45A2-86A7-B785A21F4B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7064C421-6F28-45A2-86A7-B785A21F4B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7064C421-6F28-45A2-86A7-B785A21F4B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7064C421-6F28-45A2-86A7-B785A21F4B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7064C421-6F28-45A2-86A7-B785A21F4B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B90350-50AD-4FBD-9740-A610D55B4587}
+	EndGlobalSection
+EndGlobal
